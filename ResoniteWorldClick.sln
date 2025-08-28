@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResoniteWorldClick", "ResoniteWorldClick\ResoniteWorldClick.csproj", "{3EBDF9EE-5518-4D75-8976-4A16E2ECA3A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResoniteWorldClick", "ResoniteWorldClick.csproj", "{3EBDF9EE-5518-4D75-8976-4A16E2ECA3A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
